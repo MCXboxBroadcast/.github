@@ -1,7 +1,7 @@
 # Hello, Minecrafters! :wave:
 
 [![Discord](https://img.shields.io/discord/1139621390908133396?label=Discord&color=5865F2)](https://discord.gg/Tp3tA2kdCN)
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/rtm516)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&color=%23fe8e86)](https://github.com/sponsors/rtm516)
 
 
 Welcome to MCXboxBroadcast's organization on GitHub where the various repos making MCXboxBroadcast work are held together.
